@@ -1,0 +1,2 @@
+#!/bin/sh
+/usr/local/bin/ympd -w 80 -u rpi4 /dev/null 2>&1 &

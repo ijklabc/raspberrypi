@@ -1,0 +1,6 @@
+nis_domain_lo="raspberrypi"
+modules_wlan0="!plug wpa_supplicant"
+config_wlan0=dhcp
+config_eth0=172.16.5.100/24
+#routes_eth0="default via 172.16.5.200"
+#dns_servers_eth0="192.168.5.1 8.8.8.8"

@@ -1,0 +1,1 @@
+dwc_otg.lpm_enable=0 console=tty1 root=/dev/mmcblk0p2 rootfstype=f2fs rootwait ipv6.disable=1 nohz_full=2,3 isolcpus=2,3 rcu_nocbs=2,3 threadirqs

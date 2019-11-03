@@ -1,0 +1,2 @@
+#!/bin/bash
+echo none > /sys/block/mmcblk0/queue/scheduler

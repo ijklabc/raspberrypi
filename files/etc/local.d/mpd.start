@@ -1,0 +1,2 @@
+#!/bin/sh
+chrt -f 70 mpd
